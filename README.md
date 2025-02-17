@@ -8,4 +8,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/J-CECI/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/J-CECI/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/J-CECI/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1339-team-scores-in-football-tournament](https://github.com/J-CECI/LeetCode/tree/master/1339-team-scores-in-football-tournament) |
 <!---LeetCode Topics End-->
