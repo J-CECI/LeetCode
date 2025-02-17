@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-page-recommendations](https://github.com/J-CECI/LeetCode/tree/master/1399-page-recommendations) |
 | [1452-restaurant-growth](https://github.com/J-CECI/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/J-CECI/LeetCode/tree/master/1480-movie-rating) |
+| [1565-evaluate-boolean-expression](https://github.com/J-CECI/LeetCode/tree/master/1565-evaluate-boolean-expression) |
 <!---LeetCode Topics End-->
