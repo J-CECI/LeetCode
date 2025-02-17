@@ -11,4 +11,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-team-scores-in-football-tournament](https://github.com/J-CECI/LeetCode/tree/master/1339-team-scores-in-football-tournament) |
 | [1399-page-recommendations](https://github.com/J-CECI/LeetCode/tree/master/1399-page-recommendations) |
 | [1452-restaurant-growth](https://github.com/J-CECI/LeetCode/tree/master/1452-restaurant-growth) |
+| [1480-movie-rating](https://github.com/J-CECI/LeetCode/tree/master/1480-movie-rating) |
 <!---LeetCode Topics End-->
