@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/J-CECI/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/J-CECI/LeetCode/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/J-CECI/LeetCode/tree/master/0178-rank-scores) |
 | [1198-unpopular-books](https://github.com/J-CECI/LeetCode/tree/master/1198-unpopular-books) |
 | [1278-product-price-at-a-given-date](https://github.com/J-CECI/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/J-CECI/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
