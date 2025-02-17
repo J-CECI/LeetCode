@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/J-CECI/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0574-winning-candidate](https://github.com/J-CECI/LeetCode/tree/master/0574-winning-candidate) |
 | [0578-get-highest-answer-rate-question](https://github.com/J-CECI/LeetCode/tree/master/0578-get-highest-answer-rate-question) |
+| [0580-count-student-number-in-departments](https://github.com/J-CECI/LeetCode/tree/master/0580-count-student-number-in-departments) |
 | [1181-game-play-analysis-iii](https://github.com/J-CECI/LeetCode/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/J-CECI/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1198-unpopular-books](https://github.com/J-CECI/LeetCode/tree/master/1198-unpopular-books) |
