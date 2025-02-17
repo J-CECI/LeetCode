@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/J-CECI/LeetCode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/J-CECI/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/J-CECI/LeetCode/tree/master/0608-tree-node) |
+| [0612-shortest-distance-in-a-plane](https://github.com/J-CECI/LeetCode/tree/master/0612-shortest-distance-in-a-plane) |
 | [1181-game-play-analysis-iii](https://github.com/J-CECI/LeetCode/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/J-CECI/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1198-unpopular-books](https://github.com/J-CECI/LeetCode/tree/master/1198-unpopular-books) |
