@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/J-CECI/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/J-CECI/LeetCode/tree/master/0184-department-highest-salary) |
 | [1181-game-play-analysis-iii](https://github.com/J-CECI/LeetCode/tree/master/1181-game-play-analysis-iii) |
+| [1182-game-play-analysis-iv](https://github.com/J-CECI/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1198-unpopular-books](https://github.com/J-CECI/LeetCode/tree/master/1198-unpopular-books) |
 | [1278-product-price-at-a-given-date](https://github.com/J-CECI/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/J-CECI/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
