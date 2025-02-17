@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1181-game-play-analysis-iii](https://github.com/J-CECI/LeetCode/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/J-CECI/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1198-unpopular-books](https://github.com/J-CECI/LeetCode/tree/master/1198-unpopular-books) |
+| [1204-new-users-daily-count](https://github.com/J-CECI/LeetCode/tree/master/1204-new-users-daily-count) |
 | [1278-product-price-at-a-given-date](https://github.com/J-CECI/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/J-CECI/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/J-CECI/LeetCode/tree/master/1317-monthly-transactions-i) |
