@@ -48,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-leetflex-banned-accounts](https://github.com/J-CECI/LeetCode/tree/master/1898-leetflex-banned-accounts) |
 | [1932-grand-slam-titles](https://github.com/J-CECI/LeetCode/tree/master/1932-grand-slam-titles) |
 | [1981-maximum-transaction-each-day](https://github.com/J-CECI/LeetCode/tree/master/1981-maximum-transaction-each-day) |
+| [2057-count-salary-categories](https://github.com/J-CECI/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/J-CECI/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
