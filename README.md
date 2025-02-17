@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-apples-oranges](https://github.com/J-CECI/LeetCode/tree/master/1578-apples-oranges) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/J-CECI/LeetCode/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1671-the-most-recent-three-orders](https://github.com/J-CECI/LeetCode/tree/master/1671-the-most-recent-three-orders) |
+| [1688-the-most-recent-orders-for-each-product](https://github.com/J-CECI/LeetCode/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1842-number-of-calls-between-two-persons](https://github.com/J-CECI/LeetCode/tree/master/1842-number-of-calls-between-two-persons) |
 | [1932-grand-slam-titles](https://github.com/J-CECI/LeetCode/tree/master/1932-grand-slam-titles) |
 | [1981-maximum-transaction-each-day](https://github.com/J-CECI/LeetCode/tree/master/1981-maximum-transaction-each-day) |
