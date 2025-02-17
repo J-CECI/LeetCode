@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-page-recommendations](https://github.com/J-CECI/LeetCode/tree/master/1399-page-recommendations) |
 | [1452-restaurant-growth](https://github.com/J-CECI/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/J-CECI/LeetCode/tree/master/1480-movie-rating) |
+| [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/J-CECI/LeetCode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1565-evaluate-boolean-expression](https://github.com/J-CECI/LeetCode/tree/master/1565-evaluate-boolean-expression) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/J-CECI/LeetCode/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1671-the-most-recent-three-orders](https://github.com/J-CECI/LeetCode/tree/master/1671-the-most-recent-three-orders) |
