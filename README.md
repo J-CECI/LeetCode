@@ -14,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-movie-rating](https://github.com/J-CECI/LeetCode/tree/master/1480-movie-rating) |
 | [1565-evaluate-boolean-expression](https://github.com/J-CECI/LeetCode/tree/master/1565-evaluate-boolean-expression) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/J-CECI/LeetCode/tree/master/1641-countries-you-can-safely-invest-in) |
+| [1671-the-most-recent-three-orders](https://github.com/J-CECI/LeetCode/tree/master/1671-the-most-recent-three-orders) |
 <!---LeetCode Topics End-->
