@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1565-evaluate-boolean-expression](https://github.com/J-CECI/LeetCode/tree/master/1565-evaluate-boolean-expression) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/J-CECI/LeetCode/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1671-the-most-recent-three-orders](https://github.com/J-CECI/LeetCode/tree/master/1671-the-most-recent-three-orders) |
+| [1842-number-of-calls-between-two-persons](https://github.com/J-CECI/LeetCode/tree/master/1842-number-of-calls-between-two-persons) |
 <!---LeetCode Topics End-->
