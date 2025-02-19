@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0612-shortest-distance-in-a-plane](https://github.com/J-CECI/LeetCode/tree/master/0612-shortest-distance-in-a-plane) |
 | [0626-exchange-seats](https://github.com/J-CECI/LeetCode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/J-CECI/LeetCode/tree/master/1135-customers-who-bought-all-products) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/J-CECI/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1155-product-sales-analysis-iii](https://github.com/J-CECI/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1163-project-employees-iii](https://github.com/J-CECI/LeetCode/tree/master/1163-project-employees-iii) |
 | [1179-game-play-analysis-i](https://github.com/J-CECI/LeetCode/tree/master/1179-game-play-analysis-i) |
