@@ -67,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/J-CECI/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/J-CECI/LeetCode/tree/master/2087-confirmation-rate) |
 | [2223-the-number-of-rich-customers](https://github.com/J-CECI/LeetCode/tree/master/2223-the-number-of-rich-customers) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/J-CECI/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2885-count-occurrences-in-text](https://github.com/J-CECI/LeetCode/tree/master/2885-count-occurrences-in-text) |
 <!---LeetCode Topics End-->
