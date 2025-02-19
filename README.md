@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-restaurant-growth](https://github.com/J-CECI/LeetCode/tree/master/1452-restaurant-growth) |
 | [1453-ads-performance](https://github.com/J-CECI/LeetCode/tree/master/1453-ads-performance) |
 | [1480-movie-rating](https://github.com/J-CECI/LeetCode/tree/master/1480-movie-rating) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/J-CECI/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/J-CECI/LeetCode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1565-evaluate-boolean-expression](https://github.com/J-CECI/LeetCode/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/J-CECI/LeetCode/tree/master/1578-apples-oranges) |
