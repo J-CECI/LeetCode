@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-countries-you-can-safely-invest-in](https://github.com/J-CECI/LeetCode/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1671-the-most-recent-three-orders](https://github.com/J-CECI/LeetCode/tree/master/1671-the-most-recent-three-orders) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/J-CECI/LeetCode/tree/master/1688-the-most-recent-orders-for-each-product) |
+| [1827-invalid-tweets](https://github.com/J-CECI/LeetCode/tree/master/1827-invalid-tweets) |
 | [1842-number-of-calls-between-two-persons](https://github.com/J-CECI/LeetCode/tree/master/1842-number-of-calls-between-two-persons) |
 | [1898-leetflex-banned-accounts](https://github.com/J-CECI/LeetCode/tree/master/1898-leetflex-banned-accounts) |
 | [1908-recyclable-and-low-fat-products](https://github.com/J-CECI/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
