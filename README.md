@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/J-CECI/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1339-team-scores-in-football-tournament](https://github.com/J-CECI/LeetCode/tree/master/1339-team-scores-in-football-tournament) |
 | [1399-page-recommendations](https://github.com/J-CECI/LeetCode/tree/master/1399-page-recommendations) |
+| [1415-students-and-examinations](https://github.com/J-CECI/LeetCode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/J-CECI/LeetCode/tree/master/1452-restaurant-growth) |
 | [1453-ads-performance](https://github.com/J-CECI/LeetCode/tree/master/1453-ads-performance) |
 | [1480-movie-rating](https://github.com/J-CECI/LeetCode/tree/master/1480-movie-rating) |
