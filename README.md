@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-team-scores-in-football-tournament](https://github.com/J-CECI/LeetCode/tree/master/1339-team-scores-in-football-tournament) |
 | [1399-page-recommendations](https://github.com/J-CECI/LeetCode/tree/master/1399-page-recommendations) |
 | [1452-restaurant-growth](https://github.com/J-CECI/LeetCode/tree/master/1452-restaurant-growth) |
+| [1453-ads-performance](https://github.com/J-CECI/LeetCode/tree/master/1453-ads-performance) |
 | [1480-movie-rating](https://github.com/J-CECI/LeetCode/tree/master/1480-movie-rating) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/J-CECI/LeetCode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1565-evaluate-boolean-expression](https://github.com/J-CECI/LeetCode/tree/master/1565-evaluate-boolean-expression) |
