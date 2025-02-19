@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/J-CECI/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1932-grand-slam-titles](https://github.com/J-CECI/LeetCode/tree/master/1932-grand-slam-titles) |
 | [1981-maximum-transaction-each-day](https://github.com/J-CECI/LeetCode/tree/master/1981-maximum-transaction-each-day) |
+| [2024-calculate-special-bonus](https://github.com/J-CECI/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/J-CECI/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/J-CECI/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
