@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1565-evaluate-boolean-expression](https://github.com/J-CECI/LeetCode/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/J-CECI/LeetCode/tree/master/1578-apples-oranges) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/J-CECI/LeetCode/tree/master/1641-countries-you-can-safely-invest-in) |
+| [1664-find-users-with-valid-e-mails](https://github.com/J-CECI/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1671-the-most-recent-three-orders](https://github.com/J-CECI/LeetCode/tree/master/1671-the-most-recent-three-orders) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/J-CECI/LeetCode/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1811-fix-names-in-a-table](https://github.com/J-CECI/LeetCode/tree/master/1811-fix-names-in-a-table) |
