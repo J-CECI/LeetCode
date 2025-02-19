@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-the-most-recent-orders-for-each-product](https://github.com/J-CECI/LeetCode/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1842-number-of-calls-between-two-persons](https://github.com/J-CECI/LeetCode/tree/master/1842-number-of-calls-between-two-persons) |
 | [1898-leetflex-banned-accounts](https://github.com/J-CECI/LeetCode/tree/master/1898-leetflex-banned-accounts) |
+| [1908-recyclable-and-low-fat-products](https://github.com/J-CECI/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1932-grand-slam-titles](https://github.com/J-CECI/LeetCode/tree/master/1932-grand-slam-titles) |
 | [1981-maximum-transaction-each-day](https://github.com/J-CECI/LeetCode/tree/master/1981-maximum-transaction-each-day) |
 | [2057-count-salary-categories](https://github.com/J-CECI/LeetCode/tree/master/2057-count-salary-categories) |
