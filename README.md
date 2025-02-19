@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-the-most-recent-orders-for-each-product](https://github.com/J-CECI/LeetCode/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1811-fix-names-in-a-table](https://github.com/J-CECI/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/J-CECI/LeetCode/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/J-CECI/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1842-number-of-calls-between-two-persons](https://github.com/J-CECI/LeetCode/tree/master/1842-number-of-calls-between-two-persons) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/J-CECI/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1898-leetflex-banned-accounts](https://github.com/J-CECI/LeetCode/tree/master/1898-leetflex-banned-accounts) |
