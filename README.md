@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/J-CECI/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1671-the-most-recent-three-orders](https://github.com/J-CECI/LeetCode/tree/master/1671-the-most-recent-three-orders) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/J-CECI/LeetCode/tree/master/1688-the-most-recent-orders-for-each-product) |
+| [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/J-CECI/LeetCode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
 | [1811-fix-names-in-a-table](https://github.com/J-CECI/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/J-CECI/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/J-CECI/LeetCode/tree/master/1837-daily-leads-and-partners) |
