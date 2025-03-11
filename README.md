@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/J-CECI/LeetCode/tree/master/2087-confirmation-rate) |
 | [2223-the-number-of-rich-customers](https://github.com/J-CECI/LeetCode/tree/master/2223-the-number-of-rich-customers) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/J-CECI/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [2622-form-a-chemical-bond](https://github.com/J-CECI/LeetCode/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/J-CECI/LeetCode/tree/master/2643-concatenate-the-name-and-the-profession) |
 | [2885-count-occurrences-in-text](https://github.com/J-CECI/LeetCode/tree/master/2885-count-occurrences-in-text) |
 | [3097-total-traveled-distance](https://github.com/J-CECI/LeetCode/tree/master/3097-total-traveled-distance) |
