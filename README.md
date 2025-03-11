@@ -82,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/J-CECI/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2885-count-occurrences-in-text](https://github.com/J-CECI/LeetCode/tree/master/2885-count-occurrences-in-text) |
 | [3097-total-traveled-distance](https://github.com/J-CECI/LeetCode/tree/master/3097-total-traveled-distance) |
+| [3155-highest-salaries-difference](https://github.com/J-CECI/LeetCode/tree/master/3155-highest-salaries-difference) |
 <!---LeetCode Topics End-->
