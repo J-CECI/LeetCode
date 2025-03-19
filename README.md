@@ -90,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3609-calculate-product-final-price](https://github.com/J-CECI/LeetCode/tree/master/3609-calculate-product-final-price) |
 | [3624-find-top-performing-driver](https://github.com/J-CECI/LeetCode/tree/master/3624-find-top-performing-driver) |
 | [3757-find-products-with-three-consecutive-digits](https://github.com/J-CECI/LeetCode/tree/master/3757-find-products-with-three-consecutive-digits) |
+| [3782-find-valid-emails](https://github.com/J-CECI/LeetCode/tree/master/3782-find-valid-emails) |
 <!---LeetCode Topics End-->
