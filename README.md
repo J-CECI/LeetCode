@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2885-count-occurrences-in-text](https://github.com/J-CECI/LeetCode/tree/master/2885-count-occurrences-in-text) |
 | [3097-total-traveled-distance](https://github.com/J-CECI/LeetCode/tree/master/3097-total-traveled-distance) |
 | [3155-highest-salaries-difference](https://github.com/J-CECI/LeetCode/tree/master/3155-highest-salaries-difference) |
+| [3256-find-candidates-for-data-scientist-position](https://github.com/J-CECI/LeetCode/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3609-calculate-product-final-price](https://github.com/J-CECI/LeetCode/tree/master/3609-calculate-product-final-price) |
 | [3624-find-top-performing-driver](https://github.com/J-CECI/LeetCode/tree/master/3624-find-top-performing-driver) |
 | [3757-find-products-with-three-consecutive-digits](https://github.com/J-CECI/LeetCode/tree/master/3757-find-products-with-three-consecutive-digits) |
