@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/J-CECI/LeetCode/tree/master/2087-confirmation-rate) |
 | [2172-low-quality-problems](https://github.com/J-CECI/LeetCode/tree/master/2172-low-quality-problems) |
 | [2223-the-number-of-rich-customers](https://github.com/J-CECI/LeetCode/tree/master/2223-the-number-of-rich-customers) |
+| [2453-all-the-matches-of-the-league](https://github.com/J-CECI/LeetCode/tree/master/2453-all-the-matches-of-the-league) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/J-CECI/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2622-form-a-chemical-bond](https://github.com/J-CECI/LeetCode/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/J-CECI/LeetCode/tree/master/2643-concatenate-the-name-and-the-profession) |
