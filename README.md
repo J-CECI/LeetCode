@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3155-highest-salaries-difference](https://github.com/J-CECI/LeetCode/tree/master/3155-highest-salaries-difference) |
 | [3256-find-candidates-for-data-scientist-position](https://github.com/J-CECI/LeetCode/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3282-calculate-compressed-mean](https://github.com/J-CECI/LeetCode/tree/master/3282-calculate-compressed-mean) |
+| [3284-find-expensive-cities](https://github.com/J-CECI/LeetCode/tree/master/3284-find-expensive-cities) |
 | [3287-loan-types](https://github.com/J-CECI/LeetCode/tree/master/3287-loan-types) |
 | [3505-find-cities-in-each-state](https://github.com/J-CECI/LeetCode/tree/master/3505-find-cities-in-each-state) |
 | [3609-calculate-product-final-price](https://github.com/J-CECI/LeetCode/tree/master/3609-calculate-product-final-price) |
