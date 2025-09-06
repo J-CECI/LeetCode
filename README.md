@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3282-calculate-compressed-mean](https://github.com/J-CECI/LeetCode/tree/master/3282-calculate-compressed-mean) |
 | [3284-find-expensive-cities](https://github.com/J-CECI/LeetCode/tree/master/3284-find-expensive-cities) |
 | [3287-loan-types](https://github.com/J-CECI/LeetCode/tree/master/3287-loan-types) |
+| [3365-find-all-unique-email-domains](https://github.com/J-CECI/LeetCode/tree/master/3365-find-all-unique-email-domains) |
 | [3505-find-cities-in-each-state](https://github.com/J-CECI/LeetCode/tree/master/3505-find-cities-in-each-state) |
 | [3554-premier-league-table-ranking](https://github.com/J-CECI/LeetCode/tree/master/3554-premier-league-table-ranking) |
 | [3609-calculate-product-final-price](https://github.com/J-CECI/LeetCode/tree/master/3609-calculate-product-final-price) |
