@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3256-find-candidates-for-data-scientist-position](https://github.com/J-CECI/LeetCode/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3282-calculate-compressed-mean](https://github.com/J-CECI/LeetCode/tree/master/3282-calculate-compressed-mean) |
 | [3287-loan-types](https://github.com/J-CECI/LeetCode/tree/master/3287-loan-types) |
+| [3505-find-cities-in-each-state](https://github.com/J-CECI/LeetCode/tree/master/3505-find-cities-in-each-state) |
 | [3609-calculate-product-final-price](https://github.com/J-CECI/LeetCode/tree/master/3609-calculate-product-final-price) |
 | [3624-find-top-performing-driver](https://github.com/J-CECI/LeetCode/tree/master/3624-find-top-performing-driver) |
 | [3757-find-products-with-three-consecutive-digits](https://github.com/J-CECI/LeetCode/tree/master/3757-find-products-with-three-consecutive-digits) |
